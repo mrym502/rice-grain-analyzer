@@ -3,6 +3,4 @@ tensorflow
 numpy
 opencv-python
 scipy
-gunicorn
-
-
+gdown
